@@ -68,6 +68,7 @@ Regularization did not improve generalization — the simpler linear model perfo
 - **Website:** ≈ **$0.79 revenue per minute**
 
 ➡️ The Mobile App is **~50× more effective** at driving customer spend.
+<img width="1355" height="614" alt="Screenshot 2026-02-09 at 4 35 09 in the afternoon" src="https://github.com/user-attachments/assets/97d95430-f3a8-4693-9527-07f87d645a5c" />
 
 ---
 
@@ -76,6 +77,7 @@ Regularization did not improve generalization — the simpler linear model perfo
 - Each additional year of membership adds approximately **$62.56** in annual spending
 
 ➡️ Retention outperforms short-term engagement tactics.
+
 
 ---
 
